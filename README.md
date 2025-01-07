@@ -1,15 +1,16 @@
 # Gerenciador de Produtos - CRUD
 
-Este repositório contém um projeto de **CRUD de Produtos** implementado em **duas linguagens de programação** diferentes: **Python** e **Node.js**. O objetivo deste projeto é demonstrar a implementação de um sistema de gerenciamento de produtos, onde você pode adicionar, editar, remover e listar produtos, além de realizar buscas no banco de dados.
+Este repositório contém um projeto de **CRUD de Produtos** implementado em **duas linguagens de programação** diferentes: 
+**Python** e **Node.js**. 
 
-## Estrutura do Repositório
+## Estrutura do Repo
 
 O repositório está dividido em duas **branches** principais:
 
-- **`python`**: Implementação do CRUD de Produtos utilizando **Python** .
-- **`node`**: Implementação do CRUD de Produtos utilizando **Node.js** com o framework **Express**.
+- **`python`**: Implementação do CRUD de Produtos utilizando **Python**.
+- **`node`**: Implementação do CRUD de Produtos utilizando **Node.js**.
 
-Cada branch contém a versão completa do sistema na linguagem correspondente. Ambos os sistemas oferecem funcionalidades similares, mas implementadas de maneira específica para cada stack de tecnologia.
+Ambos os sistemas oferecem funcionalidades similares, mas implementadas de maneira específica para cada stack de tecnologia
 
 ## Funcionalidades
 
@@ -22,6 +23,30 @@ Cada branch contém a versão completa do sistema na linguagem correspondente. A
 
 ## Como Usar
 
-### Python (Branch: `python_project`)
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/felipeollveira/exercicio_gerenciador_produtos/
+   
+2. Acesse a pasta do projeto:
+   ```bash
+   cd exercicio_gerenciador_produtos
+   
+3. Escolha a branch que deseja executar:
+   ```bash
+   git checkout nodejs_project
+   ou
+   git checkout python_project
 
-### NodeJS (Branch: `nodejs_project`)
+3. Executar (nodejs e python respectivamente):
+   ```bash
+   node index.js
+   ou
+   py main.py
+
+## Mais Informações
+
+Para mais informações sobre o projeto, acesse:
+
+- **Python**: [Repositório Python Project](https://github.com/felipeollveira/exercicio_gerenciador_produtos/tree/python_project)  
+- **Node.js**: [Repositório Node.js Project](https://github.com/felipeollveira/exercicio_gerenciador_produtos/tree/nodejs_project)
+
