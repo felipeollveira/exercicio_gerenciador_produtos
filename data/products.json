@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1736277115563",
+    "name": "Teclado",
+    "category": "tech",
+    "quantity": 50,
+    "price": 199
+  },
+  {
+    "id": "1736277362723",
+    "name": "Monitor",
+    "category": "tech",
+    "quantity": 100,
+    "price": 250
+  },
+  {
+    "id": "1736277371569",
+    "name": "Geladeira",
+    "category": "eletrodomestico",
+    "quantity": 50,
+    "price": 19
+  },
+  {
+    "id": "1736277983311",
+    "name": "Teclado RGB",
+    "category": "tech",
+    "quantity": 50,
+    "price": 199
+  }
+]

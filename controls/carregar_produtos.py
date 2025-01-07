@@ -1,8 +1,6 @@
 import json
 import os
 
-import os
-import json
 
 def carregar_produtos():
     if os.path.exists('produtos.json'):
