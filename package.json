@@ -1,0 +1,11 @@
+{
+  "name": "exercicio_gerenciador_produtos",
+  "version": "1.0.0",
+  "description": "Este repositório contém um projeto de **CRUD de Produtos** implementado em **duas linguagens de programação** diferentes: **Python** e **Node.js**. O objetivo deste projeto é demonstrar a implementação de um sistema de gerenciamento de produtos, onde você pode adicionar, editar, remover e listar produtos, além de realizar buscas no banco de dados.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "felipeollveira",
+  "license": "ISC"
+}
