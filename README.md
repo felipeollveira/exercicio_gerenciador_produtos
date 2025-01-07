@@ -20,7 +20,7 @@ Um sistema de gerenciamento de produtos em NodeJS mantendo as informações salv
 - **Node.js**: Versão 14.x ou superior.
 - **Módulos**: 
   - **`fs`**: O módulo **`fs`** (File System) permite realizar operações de leitura e escrita em arquivos no sistema de arquivos.
-  - **`path`**: O módulo **`path`** fornece utilitários para lidar com caminhos de arquivos e diretórios.
+  - **`path`**: O módulo **`path`** fornece utilitários para lidar com caminhos de arquivos e diretórios. Por exemplo, utilizo o path em data.js para informar o caminho do arquivo json onde sera armazenado os produtos
 
 ---
 
