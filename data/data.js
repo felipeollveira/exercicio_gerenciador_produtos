@@ -7,7 +7,7 @@ const loadProducts = () => {
     try {
         if (!fs.existsSync(productsFilePath)) {
             fs.writeFileSync(productsFilePath, JSON.stringify([]));
-            console.log("Arquivo 'products.json' criado.");
+            //console.log("Arquivo 'products.json' criado");
         }
 
         const data = fs.readFileSync(productsFilePath, "utf-8");

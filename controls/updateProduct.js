@@ -9,7 +9,6 @@ const updateProduct = (rl, main) => {
         return;
     }
 
-    listProducts();
     rl.question("Digite o ID do produto que deseja atualizar: ", (id) => {
         const productIndex = products.findIndex((product) => product.id === id.trim());
 

@@ -9,7 +9,6 @@ const deleteProduct = (rl, main) => {
         return;
     }
 
-    listProducts();
     rl.question("Digite o ID do produto que deseja excluir: ", (id) => {
         const productIndex = products.findIndex((product) => product.id === id.trim());
 
@@ -18,7 +17,7 @@ const deleteProduct = (rl, main) => {
             main();
         } else {
             const productName = products[productIndex].name;
-            products.splice(productIndex, 1); // Remove o produto
+            products.splice(productIndex, 1);
             saveProducts(products);
             console.log(`Produto "${productName}" excluído com sucesso!`);
             main();
