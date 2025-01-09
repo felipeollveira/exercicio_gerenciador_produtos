@@ -50,3 +50,10 @@ Coloquei no gitignore a pasta com o arquivo para persistencia de dados, ela vai 
 - main.py: Arquivo principal que inicia o sistema e exibe o menu.
 - controls/: Contém os módulos responsáveis pelas operações (adicionar, buscar, atualizar, excluir e listar produtos).
 - data/: Contém o arquivo products.json, criada localmente e onde os dados dos produtos são armazenados.
+
+## Mais Informações
+
+Para mais informações sobre o projeto, acesse:
+
+- **Python**: [Repositório Python Project](https://github.com/felipeollveira/exercicio_gerenciador_produtos/tree/python_project)  
+- **Node.js**: [Repositório Node.js Project](https://github.com/felipeollveira/exercicio_gerenciador_produtos/tree/nodejs_project)
