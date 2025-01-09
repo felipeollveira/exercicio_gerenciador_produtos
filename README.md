@@ -6,7 +6,7 @@ Um sistema de gerenciamento de produtos em NodeJS mantendo as informações salv
 
 ## Funcionalidades
 
-- **Listar produtos**: Mostra todos os produtos cadastrados no sistema.
+- **Listar produtos**: Mostra todos os produtos cadastrados no sistema
 - **Buscar produtos**: Permite buscar produtos por ID ou parte do nome.
 - **Adicionar produto**: Adiciona novos produtos ao sistema.
 - **Atualizar produto**: Atualiza as informações de um produto existente.
