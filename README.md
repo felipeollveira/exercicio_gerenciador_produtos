@@ -1,6 +1,7 @@
 # Sistema de Gerenciamento de Produtos - Python
 
 Um sistema de gerenciamento de produtos em Python mantendo as informações salvas em um arquivo para garantir a persistência
+Coloquei no gitignore a pasta com o arquivo para persistencia de dados, ela vai ser criada localmente na maquina do usuario
 
 ---
 
@@ -48,4 +49,4 @@ Um sistema de gerenciamento de produtos em Python mantendo as informações salv
 - menu.py: Modulo do menu 
 - main.py: Arquivo principal que inicia o sistema e exibe o menu.
 - controls/: Contém os módulos responsáveis pelas operações (adicionar, buscar, atualizar, excluir e listar produtos).
-- data/: Contém o arquivo products.json, onde os dados dos produtos são armazenados.
+- data/: Contém o arquivo products.json, criada localmente e onde os dados dos produtos são armazenados.
