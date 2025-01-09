@@ -18,6 +18,10 @@ Um sistema de gerenciamento de produtos em Python mantendo as informações salv
 ## Requisitos
 
 - **Python**: Versão 3.8+
+- **Modulos**: os e json
+
+         os lida com operações de sistema operacional, como manipulação de arquivos e diretórios
+         json é utilizado para manipular dados no formato JSON.
 
 ---
 
